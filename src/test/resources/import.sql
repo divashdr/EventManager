@@ -1,0 +1,2 @@
+-- You can use this file to load seed data into the database using SQL statements
+insert into User (id, name, email, password,phone_number) values (0, 'John Smith', 'john.smith@mailinator.com', '4534534','2125551212') 
