@@ -7,6 +7,7 @@
     <groupId>org.jboss.tools.example.springmvc</groupId>
     <artifactId>spring-eap6-quickstart</artifactId>
     <packaging>war</packaging>
+
     <version>0.0.1-SNAPSHOT</version>
 
     <name>Quickstart for Spring Framework on OpenShift with JBoss EAP 6</name>
